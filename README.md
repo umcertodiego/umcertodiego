@@ -1,4 +1,4 @@
-## Você chegou ao perfil, eu sou Diego! Tudo bem? 😁
+## Você chegou ao meu perfil, eu sou Diego Alves! Tudo bem? 😁
 
  <div>
    <a href="https://github.com/umcertodiegodev">
